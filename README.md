@@ -17,9 +17,7 @@ Simply run node server.js in the command line.
 
 The following link will take you to a video walkthrough of the application.
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+    https://watch.screencastify.com/v/zi2LVtY51J4nt6Pw9gfb
 
 
 ## License
