@@ -155,23 +155,23 @@ function addEmployee(){
             inquirer.prompt([
                 {
                     name: 'first_name',
-                    message: 'What is your first name?',
+                    message: 'What the employee first name?',
                     type: 'input'
                 },
                 {
                     name: 'last_name',
-                    message: 'What is your last name?',
+                    message: 'What is the employee last name?',
                     type: 'input'
                 },
                 {
                     name: 'role_id',
-                    message: 'What is your role?',
+                    message: 'What is the employee role?',
                     type: 'list',
                     choices: roles
                 },
                 {
                     name: 'manager_id',
-                    message: 'Who is your manager?',
+                    message: 'Who is the employee manager?',
                     type: 'list',
                     choices: employees
                 }
